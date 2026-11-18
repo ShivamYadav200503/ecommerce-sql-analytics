@@ -88,6 +88,4 @@ python run_analysis.py
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/Suhas5497"><b>Suhas Dhamapurkar</b></a> — Data Analyst &amp; AI/ML Engineer · Founder of <a href="https://resilytics.in">Resilytics</a><br>
-<a href="https://linkedin.com/in/suhas-1710d">LinkedIn</a> · <a href="https://portfolio-git-main-suhasdhamapurkar1710-gmailcoms-projects.vercel.app/">Portfolio</a> · <a href="mailto:suhasdhamapurkar1710@gmail.com">Email</a></sub>
-</div>
+<sub>Built by <a href="https://github.com/ShivamYadav200503"><b>Shivam Yadav</b></a> — Data Analyst &amp;  <br>

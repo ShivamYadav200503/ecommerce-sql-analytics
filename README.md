@@ -88,4 +88,4 @@ python run_analysis.py
 ---
 
 <div align="center">
-<sub>Built by <a href="https://github.com/ShivamYadav200503"><b>Shivam Yadav</b></a> — Data Analyst &amp;  <br>
+<sub>Built by <a href="https://github.com/ShivamYadav200503"><b>Shivam Yadav</b></a> — Data Analyst  <br>
